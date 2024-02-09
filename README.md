@@ -1,5 +1,5 @@
-- 👋 Hola, soy @DavidG2115
-- 👀 Estoy comenzando mi carrera como desarrollador, ancioso de aprender y echarle todas las ganas
+- 👋 Hola, soy @DavidG
+- 👀 Estoy comenzando mi carrera como desarrollador
 
 
 <!---
